@@ -1,0 +1,183 @@
+.a1{
+    text-align: center;
+    color: #644ba0;
+}
+
+.text{
+    color: #644ba0;
+    text-align: center;
+}
+.button{
+    padding: 10px;
+    background-color: rgb(139, 55, 248);
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.a2{
+    display: flex;
+    justify-content: center;
+  
+}
+
+.button2{
+    padding: 10px;
+    background-color: rgb(139, 55, 248);;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+.jk{
+    display: flex;
+    justify-content: center;
+  
+}
+
+body{
+    background-color:#b9aae889;
+}
+
+
+/* main parent */
+
+.main{
+    height: auto;
+    width: auto;
+    background-color: gray;
+}
+
+/* first 2 box */
+
+.parentbox1{
+    /* width: 500px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+
+
+.childbox1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(215, 211, 220, 0.217);
+    border: 5px solid #b9aae889;
+
+   margin: 10px;
+     text-align: center;
+     color: white;
+     display: flex;
+     align-items: center;
+   
+  justify-content: center;
+}
+
+
+.childbox2  {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(215, 211, 220, 0.217);
+    border: 5px solid #b9aae889;
+
+    margin: auto;
+     text-align: center;
+     color: white;
+     align-items: center;
+     text-align: center;
+     margin: 10px;
+    
+     display: flex;
+     justify-content: center;
+}
+   
+   
+ 
+
+/* second 2 box */
+
+.parentbox2 {
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+    
+}
+
+
+
+.childbox3  {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(215, 211, 220, 0.217);
+    border: 5px solid #b9aae889;
+
+    margin: 10px;
+    display: flex;
+     text-align: center;
+     align-items: center;
+   
+     color: white;
+  justify-content: center;
+}
+
+.childbox4  {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(215, 211, 220, 0.217);
+    border: 5px solid #b9aae889;
+
+     margin: 10px;
+     display: flex;
+     text-align: center;
+     align-items: center;
+   
+     color: white;
+  justify-content: center;
+}
+
+
+/* third 2 box */
+
+.parentbox3 {
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+    
+}
+
+.childbox5  {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(215, 211, 220, 0.217);
+    border: 5px solid #b9aae889;
+display: flex;
+     margin: 10px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  color: white;
+}
+
+
+.childbox6  {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(215, 211, 220, 0.217);
+    border: 5px solid #b9aae889;
+    margin: 10px;
+    display: flex;
+     text-align: center;
+     align-items: center;
+  justify-content: center;
+  color: white;
+}
+
